@@ -1,16 +1,25 @@
 .card {
   float: left;
-  border: solid 1px black;
-  width: 100px;
+  /*border: solid 1px black;*/
+ /* width: 100px;
   border-radius: 5px;
-  height: 140px;
+  height: 140px;*/
   margin-right: 20px;
 }
 
-.covered {
-  background-color: black;
+body {
+  background-image: url("http://img1.wikia.nocookie.net/__cb20140407163818/mlp/images/6/6b/Wonderbolts_insignia_in_the_grass_S4E21.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 
+div {
+  margin-left: 100px;
+  color: purple;
+  font-family: Tangerine, serif;
+  font-size: 40px;
+  /*margin-right: auto ;*/
+}
 .hand {
   overflow: auto;
 }
