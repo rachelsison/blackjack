@@ -13,13 +13,34 @@ body {
   background-size: 100%;
 }
 
-div {
-  margin-left: 100px;
+.player-hand-container {
+  margin-left: 300px;
   color: purple;
   font-family: Tangerine, serif;
   font-size: 40px;
-  /*margin-right: auto ;*/
+
+}
+.dealer-hand-container {
+  margin-left: 300px;
+  color: purple;
+  font-family: Tangerine, serif;
+  font-size: 40px;
+
 }
 .hand {
   overflow: auto;
 }
+
+.chipContainer {
+  position: fixed;
+  top: 50px;
+
+}
+.gameStuff {
+  margin-left: 300px;
+  color: purple;
+  font-family: Tangerine, serif;
+  font-size: 40px;
+
+}
+
